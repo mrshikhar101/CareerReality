@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CareerReality/static/css/main.b50479c0.css",
+    "main.js": "/CareerReality/static/js/main.e9afb715.js",
+    "static/js/453.5c00213e.chunk.js": "/CareerReality/static/js/453.5c00213e.chunk.js",
+    "index.html": "/CareerReality/index.html",
+    "main.b50479c0.css.map": "/CareerReality/static/css/main.b50479c0.css.map",
+    "main.e9afb715.js.map": "/CareerReality/static/js/main.e9afb715.js.map",
+    "453.5c00213e.chunk.js.map": "/CareerReality/static/js/453.5c00213e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b50479c0.css",
+    "static/js/main.e9afb715.js"
+  ]
+}
