@@ -533,7 +533,7 @@ const Footer = () => {
                 <div className="flex flex-col md:flex-row justify-center space-y-2 md:space-y-0 md:space-x-8 text-sm mb-4">
                     <button onClick={() => alert('Terms of Service: Look, we built this cool thing to help you. Don\'t break it, don\'t try to hack it, and don\'t be a jerk. Common sense, right? If you try anything shady, we reserve the right to wag our finger disapprovingly. And maybe call your mom. 😉')} className="hover:text-blue-500 transition-colors">Terms of Service</button>
                     <button onClick={() => alert('Privacy Policy: We collect as little as possible. Your quiz answers help our AI understand you, and your Google login is just for, well, logging in. We\'re not selling your data to space aliens or spamming your grandma. Pinky promise! 🤫')} className="hover:text-blue-500 transition-colors">Privacy Policy</button>
-                    <a href="mailto:contact@careerreality.com" className="hover:text-blue-500 transition-colors">contact@careerreality.com</a>
+                    <a href="mailto:shikhar040404@gmail.com" className="hover:text-blue-500 transition-colors">shikhar040404@gmail.com</a>
                 </div>
                 <p>© {new Date().getFullYear()} Career Reality. All rights reserved.</p>
             </div>
